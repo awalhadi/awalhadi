@@ -1,7 +1,7 @@
 # Hello, I'm A Awal Hadi 👋
 
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/39948105?v=4]" alt="Your Name" width="150" height="150">
+  <img src="https://avatars.githubusercontent.com/u/39948105?v=4" alt="A Awal Hadi" width="150" height="150">
 </p>
 
 I'm a passionate software developer with a strong background in PHP, Laravel. I love building applications that solve real-world problems and contribute to the open-source community. Constantly seeking new challenges to learn and grow as a developer.
