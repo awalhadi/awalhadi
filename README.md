@@ -48,6 +48,6 @@ Feel free to explore my repositories to see more of my work!
 
 ---
 
-_Replace the placeholders like `A Awal Hadi`, `PHP, JavaScript, Html, CSS, Node, Laravel, Vue js, React js, Next js, Bootstrap, Tailwind CSS, MySql, MariaDB, PostgreSQL, MongoDB`, `awalhadi`, etc., with your actual information. 
+At a glance `A Awal Hadi`, `PHP, JavaScript, Html, CSS, Node, Laravel, Vue js, React js, Next js, Bootstrap, Tailwind CSS, MySql, MariaDB, PostgreSQL, MongoDB`, `awalhadi`, etc., with your actual information. 
 
 
