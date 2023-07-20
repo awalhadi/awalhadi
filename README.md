@@ -19,7 +19,7 @@ I'm a passionate software developer with a strong background in PHP, Laravel. I 
 
 ## 💼 Professional Experience
 
-**Laravel developer** at [Company Name](https://itclanbd.com) _(April 2021 - Present)_
+**Laravel developer** at [ITclan BD](https://itclanbd.com) _(April 2021 - Present)_
 - Brief overview of your role and contributions.
 
 
@@ -40,6 +40,7 @@ I'm a passionate software developer with a strong background in PHP, Laravel. I 
 
 ## 📫 Let's Connect
 
+- [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/406778)
 - [LinkedIn](https://www.linkedin.com/in/a-awal-hadi)
 - [Email](mailto:awalhadi5@gmail.com)
 - [Personal Portfolio](https://portfolio.awalhadi.vercel.app)
