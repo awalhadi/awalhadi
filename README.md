@@ -14,8 +14,8 @@ I'm a passionate software developer with a strong background in PHP, Laravel. I 
 
 ## 🌱 Currently Learning
 
-- [Node js](https://nodejs.org/dist/latest-v18.x/docs/api/): A brief description of what you are learning and its relevance.
-- [Next js](https://nextjs.org/docs): A brief description of what you are learning and its relevance.
+- [Node js](https://nodejs.org/dist/latest-v18.x/docs/api/): Basic Knowledge of Node js.
+- [Next js](https://nextjs.org/docs): I have good knowledge about Next js. In learning time I have some small projects using this.
 
 ## 💼 Professional Experience
 
