@@ -20,7 +20,9 @@ I'm a passionate software developer with a strong background in PHP, Laravel. I 
 ## 💼 Professional Experience
 
 **Laravel developer** at [ITclan BD](https://itclanbd.com) _(April 2021 - Present)_
-- Brief overview of your role and contributions.
+- I am working here as a Laravel web app developer.
+- Sometimes worked here as a project team lead.
+- Lots of projects experience over here like some cms, e-commerce, inventory, Multitenant, and matrimony.
 
 
 ## 🚀 Skills
