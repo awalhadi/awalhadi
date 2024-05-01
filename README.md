@@ -9,8 +9,9 @@ I'm a passionate software developer with a strong background in PHP, Laravel. I 
 ## 🔭 Featured Projects
 
 - [awalhadi/addressable](https://github.com/awalhadi/addressable): Laravel Package for manage address and redius search.
-- [Mentors](https://mentorslearning.com/): Educational platform.
+- [Mentors](https://mentorslearning.com/): Educational platform, Laravel, Next, Ant-design.
 - [Matrimonial](https://islamarriage.com/): Matrimonial website build with laravel vue js.
+- [Ecommerce](https://kachabazar.gqrcode.com): Ecommerce website build with laravel, ReactJs, InnertiaJs, Redux, Redux-toolkit, Ant-design, Tailwind css .
 
 ## 🌱 Currently Learning
 
