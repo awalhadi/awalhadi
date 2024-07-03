@@ -1,58 +1,66 @@
-# Hello, I'm A Awal Hadi 👋
+# A Awal Hadi | Full-Stack Developer
 
 
-I'm a passionate software developer with a strong background in PHP, Laravel. I love building applications that solve real-world problems and contribute to the open-source community. Constantly seeking new challenges to learn and grow as a developer.
+## 👨‍💻 About Me
+**I'm a passionate Laravel developer** with a strong foundation in object-oriented programming principles and a knack for crafting robust, well-structured applications. I'm driven to tackle real-world challenges by leveraging Laravel's powerful ecosystem and fostering a collaborative open-source spirit.
 
-## 🚀 Skills
+**Continuously learning and growing,** I'm currently expanding my skillset with Node.js and Next.js to build scalable server-side applications and optimize user experiences.
 
-- Programming Languages: PHP, JavaScript, Html, CSS, Node
-- Frameworks: Laravel, Vue js, React js, Next js, Bootstrap, Tailwind CSS 
-- Databases: MySql, MariaDB, PostgreSQL, MongoDB
-- Version Control: Git
+## 🛠 Technical Skills
+
+- **Languages:** PHP, JavaScript, HTML5, CSS3, Node.js
+- **Frameworks & Libraries:** 
+  - Backend: Laravel (Advanced), Express.js
+  - Frontend: Vue.js, React.js, Next.js
+  - CSS: Bootstrap, Tailwind CSS
+- **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB
+- **API Development:** RESTful APIs
+- **Testing:** Jest
+- **Version Control**: Git, Github, GitLab
 
 ## 💼 Professional Experience
 
 **Laravel developer** at [ITclan BD](https://itclanbd.com) _(April 2021 - Present)_
-- Laravel package development.
-- Laravel inertia react, vue implementation.
-- Payment integration.
-- API development
-- Lots of projects experience over here like some CMS, LMS, e-commerce, inventory, Multitenant, and matrimony.
+- Architected and developed robust Laravel packages, enhancing code reusability and maintainability.
+- Implemented Laravel Inertia with React and Vue.js for seamless single-page applications.
+- Integrated various payment gateways.
+- Designed and built RESTful APIs.
+- Different database design using [DrawSql](https://drawsql.app/teams/itclan-bd-1/diagrams/laravel-courses)
+- Managed and executed multiple projects, including CMS, LMS, e-commerce, inventory systems, multi-tenant applications, and matrimonial websites.
 
-## 🔭 Featured Projects
+## 🏆 Key Projects
 
-- [awalhadi/addressable](https://github.com/awalhadi/addressable): Laravel Package for manage address and redius search.
-- [Mentors](https://mentorslearning.com/): Educational platform, Laravel, Next, Ant-design.
-- [Matrimonial](https://islamarriage.com/): Matrimonial website build with laravel vue js.
-- [Ecommerce](https://kachabazar.gqrcode.com): Ecommerce website build with laravel, ReactJs, InnertiaJs, Redux, Redux-toolkit, Ant-design, Tailwind css .
+* [**awalhadi/addressable**](https://github.com/awalhadi/addressable): Laravel package for managing addresses and enabling radius search capabilities (highlight functionalities and benefits)
+* [**Mentors**](https://mentorslearning.com/): Cutting-edge educational platform built with Laravel, Next.js, and Ant Design
+* [Matrimonial](https://islamarriage.com/): Feature-rich matrimonial website developed using Laravel and Vue.js
+* [**E-commerce**](https://dashtar.gqrcode.com): E-commerce platform built with Laravel, React.js, Inertia.js, Redux, and Tailwind CSS (demonstrate scalability and user interface design)
+
+
+
 
 ## 🌱 Currently Learning
 
-- [Node js](https://nodejs.org/dist/latest-v18.x/docs/api/): Currently learning Node.js to build server-side applications. Familiarizing myself with its event-driven, non-blocking I/O model, and using npm packages to enhance development efficiency.
-- [Next js](https://nextjs.org/docs): I am leveraging my expertise in Next.js to build high-performance, SEO-friendly small web applications. Exploring server-side rendering, static site generation, and dynamic import to optimize user experience.
+* **Node.js:** Deepening my understanding of Node.js for server-side development, exploring its event-driven architecture, and leveraging npm packages to streamline my development process.
+* **Next.js:** Advancing my proficiency in Next.js to build exceptional performing and SEO-friendly web applications, delving into server-side rendering, static site generation, and dynamic imports for optimal user experience.
 
 
 
-
-
-
-
-
-## 📈 GitHub Stats
-
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=awalhadi&show_icons=true&hide=issues&hide_title=true&count_private=true&hide_rank=true" alt="GitHub Stats">
 </p>
 
-## 📫 Let's Connect
+## 🤝 Connect with Me
 
-- [Beecrowd](https://www.beecrowd.com.br/judge/en/profile/406778)
-- [HackerRank](https://www.hackerrank.com/awalhadi)
-- [LinkedIn](https://www.linkedin.com/in/a-awal-hadi)
-- [Email](mailto:awalhadi5@gmail.com)
-- [Personal Portfolio](https://portfolio.awalhadi.vercel.app)
+* **Beecrowd:** https://www.beecrowd.com.br/judge/en/profile/406778
+* **HackerRank:** https://www.hackerrank.com/awalhadi
+* **LinkedIn:** https://www.linkedin.com/in/a-awal-hadi
+* **Email:** awalhadi5@gmail.com
+* **Portfolio:** https://portfolio.awalhadi.vercel.app
 
-Feel free to explore my repositories to see more of my work!
+
+I'm eager to connect and discuss your project needs feel free to explore my repositories and reach out for collaborations or opportunities!
+
 
 ---
 
