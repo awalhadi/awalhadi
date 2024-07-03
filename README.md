@@ -6,10 +6,17 @@
 
 **Continuously learning and growing,** I'm currently expanding my skillset with Node.js and Next.js to build scalable server-side applications and optimize user experiences.
 
-## 🛠 Technical Skills
+## 🛠 Technical Skills & Expertise
 
-- **Languages:** PHP, JavaScript, HTML5, CSS3, Node.js
-- **Frameworks & Libraries:** 
+
+
+- **Laravel:**
+    * In-depth knowledge of core concepts, including Eloquent ORM, routing, middleware, and authentication.
+    * Adept at building APIs, integrating payments, and implementing robust architecture patterns.
+    * Experience with Laravel packages (mention specific packages you've used, e.g., Laravel Breeze, Cashier, etc.).
+    * Familiarity with advanced features like custom blade directives, queues, and broadcasting.
+- **Frontend Technologies:** HTML, CSS, JavaScript (Vanilla, jQuery, Alpine)
+- **Frameworks & Libraries:**
   - Backend: Laravel (Advanced), Express.js
   - Frontend: Vue.js, React.js, Next.js
   - CSS: Bootstrap, Tailwind CSS
@@ -23,10 +30,11 @@
 **Laravel developer** at [ITclan BD](https://itclanbd.com) _(April 2021 - Present)_
 - Architected and developed robust Laravel packages, enhancing code reusability and maintainability.
 - Implemented Laravel Inertia with React and Vue.js for seamless single-page applications.
-- Integrated various payment gateways.
+- Integrated various payment gateways to facilitate secure transactions within applications.
 - Designed and built RESTful APIs.
 - Different database design using [DrawSql](https://drawsql.app/teams/itclan-bd-1/diagrams/laravel-courses)
 - Managed and executed multiple projects, including CMS, LMS, e-commerce, inventory systems, multi-tenant applications, and matrimonial websites.
+
 
 ## 🏆 Key Projects
 
