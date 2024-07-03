@@ -1,10 +1,23 @@
 # Hello, I'm A Awal Hadi 👋
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/39948105?v=4" alt="A Awal Hadi" width="150" height="150">
-</p>
 
 I'm a passionate software developer with a strong background in PHP, Laravel. I love building applications that solve real-world problems and contribute to the open-source community. Constantly seeking new challenges to learn and grow as a developer.
+
+## 🚀 Skills
+
+- Programming Languages: PHP, JavaScript, Html, CSS, Node
+- Frameworks: Laravel, Vue js, React js, Next js, Bootstrap, Tailwind CSS 
+- Databases: MySql, MariaDB, PostgreSQL, MongoDB
+- Version Control: Git
+
+## 💼 Professional Experience
+
+**Laravel developer** at [ITclan BD](https://itclanbd.com) _(April 2021 - Present)_
+- Laravel package development.
+- Laravel inertia react, vue implementation.
+- Payment integration.
+- API development
+- Lots of projects experience over here like some CMS, LMS, e-commerce, inventory, Multitenant, and matrimony.
 
 ## 🔭 Featured Projects
 
@@ -16,22 +29,12 @@ I'm a passionate software developer with a strong background in PHP, Laravel. I 
 ## 🌱 Currently Learning
 
 - [Node js](https://nodejs.org/dist/latest-v18.x/docs/api/): Currently learning Node.js to build server-side applications. Familiarizing myself with its event-driven, non-blocking I/O model, and using npm packages to enhance development efficiency.
-- [Next js](https://nextjs.org/docs): I am leveraging my expertise in Next.js to build high-performance, SEO-friendly small web applications. Exploring server-side rendering, static site generation and dynamic import to optimize user experience.
-
-## 💼 Professional Experience
-
-**Laravel developer** at [ITclan BD](https://itclanbd.com) _(April 2021 - Present)_
-- I am working here as a Laravel web app developer.
-- Sometimes worked here as a project team lead.
-- Lots of projects experience over here like some cms, e-commerce, inventory, Multitenant, and matrimony.
+- [Next js](https://nextjs.org/docs): I am leveraging my expertise in Next.js to build high-performance, SEO-friendly small web applications. Exploring server-side rendering, static site generation, and dynamic import to optimize user experience.
 
 
-## 🚀 Skills
 
-- Programming Languages: PHP, JavaScript, Html, CSS, Node
-- Frameworks: Laravel, Vue js, React js, Next js, Bootstrap, Tailwind CSS 
-- Databases: MySql, MariaDB, PostgreSQL, MongoDB
-- Version Control: Git 
+
+
 
 
 
