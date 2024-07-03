@@ -6,14 +6,13 @@
 
 **Continuously learning and growing,** I'm currently expanding my skillset with Node.js and Next.js to build scalable server-side applications and optimize user experiences.
 
+
 ## 🛠 Technical Skills & Expertise
-
-
 
 - **Laravel:**
     * In-depth knowledge of core concepts, including Eloquent ORM, routing, middleware, and authentication.
     * Adept at building APIs, integrating payments, and implementing robust architecture patterns.
-    * Experience with Laravel packages (mention specific packages you've used, e.g., Laravel Breeze, Cashier, etc.).
+    * Experience with Laravel packages (Laravel Breeze, Cashier, Inertia, etc.).
     * Familiarity with advanced features like custom blade directives, queues, and broadcasting.
 - **Frontend Technologies:** HTML, CSS, JavaScript (Vanilla, jQuery, Alpine)
 - **Frameworks & Libraries:**
@@ -24,6 +23,7 @@
 - **API Development:** RESTful APIs
 - **Testing:** Jest
 - **Version Control**: Git, Github, GitLab
+
 
 ## 💼 Professional Experience
 
@@ -42,8 +42,6 @@
 * [**Mentors**](https://mentorslearning.com/): Cutting-edge educational platform built with Laravel, Next.js, and Ant Design
 * [Matrimonial](https://islamarriage.com/): Feature-rich matrimonial website developed using Laravel and Vue.js
 * [**E-commerce**](https://dashtar.gqrcode.com): E-commerce platform built with Laravel, React.js, Inertia.js, Redux, and Tailwind CSS (demonstrate scalability and user interface design)
-
-
 
 
 ## 🌱 Currently Learning
