@@ -23,6 +23,7 @@
 - **API Development:** RESTful APIs
 - **Testing:** Jest
 - **Version Control**: Git, Github, GitLab
+- **OS**: Windows, Ubuntu, Cent OS 
 
 
 ## 💼 Professional Experience
