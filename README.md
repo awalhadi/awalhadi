@@ -61,7 +61,7 @@
 
 * **Beecrowd:** https://www.beecrowd.com.br/judge/en/profile/406778
 * **HackerRank:** https://www.hackerrank.com/awalhadi
-* **LinkedIn:** https://www.linkedin.com/in/a-awal-hadi
+* **LinkedIn:** https://www.linkedin.com/in/awalhadi
 * **Email:** awalhadi5@gmail.com
 * **Portfolio:** https://portfolio.awalhadi.vercel.app
 
