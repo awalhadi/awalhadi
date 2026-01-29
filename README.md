@@ -118,7 +118,7 @@ Full-featured e-commerce solution including:
 ---
 
 ### 📦 [awalhadi/addressable](https://github.com/awalhadi/addressable)
-**Open Source Laravel Package** | ![Downloads](https://img.shields.io/packagist/dt/awalhadi/addressable)
+**Open Source Laravel Package** | ![Downloads](https://img.shields.io/packagist/dt/awalhadi/addressable?style=flat-square&color=blue)
 
 Elegant address management solution for Laravel applications:
 - Polymorphic relationship support for any model
@@ -128,13 +128,20 @@ Elegant address management solution for Laravel applications:
 
 ---
 
-## 📈 GitHub Activity
+## 📈 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=awalhadi&theme=github_dark" alt="Profile Summary"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=awalhadi&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=awalhadi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&custom_title=GitHub%20Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awalhadi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=awalhadi&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
 
 ---
 
